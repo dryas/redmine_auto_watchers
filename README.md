@@ -3,10 +3,11 @@ redmine_auto_watchers
 
 This Redmine plugin will add everybody as watcher who gets in touch with an issue.
 
-It is heavily inspired by the following plugins but is intented to work with Redmine 2.x:
+It is heavily inspired by the following plugins but is intented to work with *Redmine 2.x*:
 
-[https://github.com/rchady/redmine_auto_watchers](https://github.com/dryas/redmine_auto_watchers)
-[https://github.com/mezza/redmine_auto_watch](https://github.com/mezza/redmine_auto_watch)
+<https://github.com/dryas/redmine_auto_watchers>
+
+<https://github.com/mezza/redmine_auto_watch>
 
 Features
 --------
