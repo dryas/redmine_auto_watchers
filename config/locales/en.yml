@@ -1,0 +1,5 @@
+en:
+  auto_watchers_options: "Options"
+  auto_watchers_enable_watchers_label: "Enable auto watchers"
+  auto_watchers_enable_watchers_help: "Add everybody as watcher who get in touch with an issue."
+
